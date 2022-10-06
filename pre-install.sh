@@ -40,3 +40,4 @@ sudo make install
  ../gen-cpp/Calculator.cpp ../gen-cpp/shared_types.cpp ../gen-cpp/tutorial_types.cpp -lthrift -o aaa
 
 #Test in PR-1 step -1
+#this is a test in pr-2 -step 2
