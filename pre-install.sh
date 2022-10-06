@@ -38,3 +38,7 @@ sudo make install
 
  g++ client.cpp  ../gen-cpp/SharedService.cpp 
  ../gen-cpp/Calculator.cpp ../gen-cpp/shared_types.cpp ../gen-cpp/tutorial_types.cpp -lthrift -o aaa
+
+
+
+ #this is a test in pr-2
