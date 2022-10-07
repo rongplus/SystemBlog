@@ -39,4 +39,10 @@ sudo make install
  g++ client.cpp  ../gen-cpp/SharedService.cpp 
  ../gen-cpp/Calculator.cpp ../gen-cpp/shared_types.cpp ../gen-cpp/tutorial_types.cpp -lthrift -o aaa
 
+
+
+ #this is a test in pr-2
+#this is a test in pr-2 -step 1
+#this is a test in pr-2 -step 2
+
 #Test in PR-1 step -1
